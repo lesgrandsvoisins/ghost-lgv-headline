@@ -1,7 +1,7 @@
 {
-    "name": "l-g-v",
+    "name": "lgv-headline",
     "description": "A Ghost theme pour Les Grands Voisins",
-    "version": "1.0.2",
+    "version": "1.26.3",
     "private": true,
     "engines": {
         "ghost": ">=5.0.0"
